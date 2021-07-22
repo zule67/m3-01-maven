@@ -164,3 +164,6 @@
 		</plugins>
 	</build>
 </project>
+
+// mvn verify sonar:sonar -Dsonar.projectKey=zule67_m3-01-maven -Dsonar.organization=zule67 -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=382f9f974f0a8f47b520450b4df069480277e13b -Dsonar.branch.name=master
+
