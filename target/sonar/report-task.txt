@@ -1,0 +1,8 @@
+organization=zule67
+projectKey=zule67_m3-01-maven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.22044
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=zule67_m3-01-maven&branch=master&resolved=false
+ceTaskId=AXrNzfmHw5tAJ3iHCKDl
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXrNzfmHw5tAJ3iHCKDl
