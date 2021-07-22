@@ -1,0 +1,4 @@
+#Tue Jul 20 12:51:29 CEST 2021
+configuration*?=71A322159B729E46CC96BF3AF6635BF02856A989
+module-resource*?\:checkstyle-xpath-suppressions.xml=C3743ACB71E41F636B19934EA20AF178AFC15FF2
+module-resource*?\:checkstyle-suppressions.xml=BD4688E731D62A1BD19F83EF543F8FC7958BDCCF
